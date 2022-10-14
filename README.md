@@ -9,3 +9,5 @@ given by the sensor.
 According to the distance the buzzer creates sound .If the object is between 100 and 80 cm the frequency of the beeps is 1Hz i.e. it sound every 1 second.
 If the object is between 80 and 30 cm the frequency of the beeps is 0.55Hz i.e. it sound every 0.55 second.
 If the object is between 30 and 0 cm the frequency of the beeps is 0.11Hz i.e. it sound every 0.11 second.
+
+![schematic_gHl916oi0N](https://user-images.githubusercontent.com/108792129/195860337-560fdafb-eca9-4913-9c32-268a2b050f3c.jpg)
